@@ -23,12 +23,6 @@
   "_shasum": "4efd08c663eb4855cfa414c6d98043732dfd0ef8",
   "_spec": "cordova-plugin-wifiwizard2@3.1.1",
   "_where": "C:\\Users\\dgarciar\\Desktop\\app-clientes",
-  "author": {
-    "name": "Myles McNamara"
-  },
-  "bugs": {
-    "url": "https://github.com/tripflex/wifiwizard2/issues"
-  },
   "bundleDependencies": false,
   "cordova": {
     "id": "wifiwizard2",
@@ -51,7 +45,6 @@
       }
     }
   },
-  "homepage": "https://github.com/tripflex/wifiwizard2#readme",
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
@@ -61,7 +54,7 @@
   "name": "cordova-plugin-wifiwizard2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tripflex/wifiwizard2.git"
+    "url": "git+https://github.com/Dani-98/WifiWizard2"
   },
   "version": "3.1.1"
 }
